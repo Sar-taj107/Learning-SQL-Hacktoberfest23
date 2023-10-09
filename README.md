@@ -45,8 +45,8 @@ To contribute to our Learning-SQL-Hacktoberfest:
    ```
  ## Contributors HF2023
 
- <a href="https://github.com/Sar-taj107/Learning-SQL-Hacktoberfest/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=Sar-taj107/Learning-SQL-Hacktoberfest" />
+ <a href="https://github.com/Sar-taj107/Learning-SQL-Hacktoberfest23/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=Sar-taj107/Learning-SQL-Hacktoberfest23" />
  </a>
 
 
@@ -56,9 +56,10 @@ To contribute to our Learning-SQL-Hacktoberfest:
 ⭐ Follow few steps while updating the file .
 
 1. add any sql query or you can also contribute to write documentation related to different topic of databases (either relational or non-relational db) according to your choice.
-2. for docs file you must write very concise and to the point about your selected topic and upload it into the docs folder, file name format- topic_name.txt
-                                            OR
-3. for sql_query you must write the question first then query followed by the output and add into the provided folder 'Sql_Query'
+2. for docs file you must write very concise and to the point about your selected topic and upload it into the docs folder, file name format- topic_name.txt or .md
+   and also add reference link at the end (optional).
+                                                                             OR
+4. for sql_query you must write the question first then query followed by the output and add into the provided folder 'Sql_Query'
 
 * secondly add your details into the contributor list folder just create a file conatains your name, institiute/company , github_url  (the file name should be <your_username.md> ).
 * 
@@ -102,7 +103,66 @@ To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 ```
 Happy contributing and all the best for hacktoberfest! 💻📚🚗
 
-⭐️Don't make any other changes in the code! If you find any bug or have a feature suggestion, feel free to raise an issue.
+⭐️If you find any bug or have a feature suggestion, feel free to raise an issue.
+
+# Awesome SQL [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+SQL-related awesome list.
+
+## Contents
+
+* [Formatters](#formatters)
+* [Oracle](#oracle)
+* [SQL Server](#sql-server)
+* [Tools](#tools)
+* [Miscellaneous](#miscellaneous)
+
+## Formatters
+
+* [PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .NET and JS library.
+* [SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter.
+
+## Oracle
+
+* [Alexandria-PLSQL-Utils](https://github.com/mortenbra/alexandria-plsql-utils) - Oracle PL/SQL Utility Library.
+* [PLSQL-JSON](https://github.com/doberkofler/PLSQL-JSON) - The JSON encode/decode library for Oracle PL/SQL.
+* [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html) - A free, integrated development environment.
+* [SQL Tools for Oracle](https://sourceforge.net/projects/sqlt/) - A light weight and robust frontend for Oracle database development. 
+* [Testing Framework for PL/SQL](http://utplsql.org/) - An open-source testing framework for PL/SQL and SQL.
+* [Oracle Database 18c Express Edition](https://www.oracle.com/database/technologies/appdev/xe.html) - Free Oracle Database for everyone.
+* [Oracle Database Online Documentation 12c](https://docs.oracle.com/database/121/SQLRF/toc.htm) - Documentation, release 1 (12.1).
+
+## SQL Server
+
+* [SQL Server Data Tools](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?redirectedfrom=MSDN&view=sql-server-ver15) - A modern development tool for building SQL Server relational databases, Azure SQL Databases, Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. 
+* [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-2019) - SQL Server 2019 by Microsoft.
+* [Database Unit Testing for SQL Server](https://tsqlt.org/) - Unit testing framework for SQL Server.
+* [SQL Server Architecture](https://www.interviewbit.com/blog/sql-server-architecture/) - Detailed Explanation.
+* [Learn SQL Server](https://www.scaler.com/topics/sql-server/) - Detail information related to SQL Server.
+* [SQL Server Interview Questions](https://www.interviewbit.com/sql-server-interview-questions/) - Prepare for SQL interview with these most asked real-world SQL interview questions.
+
+## Tools
+
+* [BigBash](https://github.com/Borisvl/bigbash) - A converter that generates a bash one-liner from an SQL Select query.
+* [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
+* [Flyway](https://flywaydb.org/) - Version control for a database.
+* [Rumba RDBM](https://www.dbinvent.com/) - Database schema migration tool, plain-SQL, and declarative schema definition supported.
+* [Liquibase](https://www.liquibase.org/) - Manage database changes with ease.
+* [PixQL](https://github.com/Phildo/pixQL) - SQL for image processing.
+* [SQL Fiddle](http://sqlfiddle.com/) - A tool for easy online testing and sharing of database problems and their solution.
+* [SQLPad](http://rickbergfalk.github.io/sqlpad/#/) - A web app for writing and running SQL queries and visualizing the results.
+* [EverSQL](https://www.eversql.com/) - Automated query optimizer, performance monitor and analyser, powered by AI.
+
+## Miscellaneous
+
+Other awesome links & resources!
+
+* [W3Schools](https://www.w3schools.com/sql/default.asp) - SQL Tutorial with W3Schools.
+* [Pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - Pluralsight (Code School: Try SQL).
+* [CodecAcademy](https://www.codecademy.com/learn/learn-sql) - CodecAcademy (Learn SQL).
+* [SQLZoo](https://sqlzoo.net/) - SQL Tutorial.
+* [Scaler Topics](https://www.scaler.com/topics/sql/) - Learn basic and advanced concepts of SQL.
+* [InetrviewBit](https://www.interviewbit.com/sql-cheat-sheet/) - Learn SQL: Basic to Advanced Concepts.
 
 <tr><td align="center"><a href="https://github.com/Sar-taj107"><kbd><img src="https://avatars3.githubusercontent.com/Sar-taj107?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Md Tajuddin</b></sub></a><br /></td>
 
