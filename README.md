@@ -32,7 +32,7 @@ To contribute to our Learning-SQL-Hacktoberfest23:
 
    ```bash
    
-   git clone https://github.com/yourusername/Learning-SQL-Hacktoberfest.git
+   git clone https://github.com/yourusername/Learning-SQL-Hacktoberfest23.git
    
    ```
 
