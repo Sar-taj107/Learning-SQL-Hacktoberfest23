@@ -56,10 +56,7 @@ To contribute to our Learning-SQL-Hacktoberfest:
 ⭐ Follow few steps while updating the file .
 
 1. add any sql query or you can also contribute to write documentation related to different topic of databases (either relational or non-relational db) according to your choice.
-2. for docs file you must write very concise and to the point about your selected topic and upload it into the docs folder, file name format- topic_name.txt or .md
    and also add reference link at the end (optional).
-                                                                             OR
-4. for sql_query you must write the question first then query followed by the output and add into the provided folder 'Sql_Query'
 
 * secondly add your details into the contributor list folder just create a file conatains your name, institiute/company , github_url  (the file name should be <your_username.md> ).
 * 
