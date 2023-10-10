@@ -1,2 +1,3 @@
 ### **FULL (OUTER) JOIN**: returns all records when there is a match in either left or right table
-* `SELECT` column_names `FROM` table1 ``FULL OUTER JOIN`` table2 `ON` table1.column_name=table2.column_name;
+
+- `SELECT` column_names `FROM` table1 `FULL OUTER JOIN` table2 `ON` table1.column_name=table2.column_name;
