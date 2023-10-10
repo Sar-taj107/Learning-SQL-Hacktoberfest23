@@ -24,7 +24,7 @@ https://hacktoberfest.com/
 
 ## How to Contribute
 
-To contribute to our Learning-SQL-Hacktoberfest:
+To contribute to our Learning-SQL-Hacktoberfest23:
 
 1. **Fork the Repository:** Click the "Fork" button at the top right of this repository to create a copy in your GitHub account. 🍴
 
@@ -32,7 +32,7 @@ To contribute to our Learning-SQL-Hacktoberfest:
 
    ```bash
    
-   git clone https://github.com/yourusername/Learning-SQL-Hacktoberfest.git
+   git clone https://github.com/yourusername/Learning-SQL-Hacktoberfest23.git
    
    ```
 
