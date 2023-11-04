@@ -43,7 +43,7 @@ To contribute to our Learning-SQL-Hacktoberfest23:
    git checkout -b <user-name>
    
    ```
- ## Contributors HF2023
+ ## Thanks to All Contributors💖 HF2023
 
  <a href="https://github.com/Sar-taj107/Learning-SQL-Hacktoberfest23/graphs/contributors">
    <img src="https://contrib.rocks/image?repo=Sar-taj107/Learning-SQL-Hacktoberfest23" />
