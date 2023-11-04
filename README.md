@@ -91,7 +91,6 @@ To contribute to our Learning-SQL-Hacktoberfest23:
 ## Like the Repository! ⭐️
 
 As a first step, please consider giving our repository a ⭐️ to show your support! 🌟
-## + Follow Me : } Quick Approval of Pull Request
 
 ```py
 '''
