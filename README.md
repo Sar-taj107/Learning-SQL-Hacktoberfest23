@@ -1,6 +1,5 @@
 # Learning-SQL-Hacktoberfest23
-Repository totally dedicated to Hacktober Fest 2023, feel free to use it. Topics hacktoberfest hacktoberfest-accepted hacktoberfest2023
-
+Repository totally dedicated to Hacktober Fest 2023, feel free to use it. Topics hacktoberfest hacktoberfest-accepted hacktoberfest23 
 # Welcome to Hacktoberfest #10 2023
 ![Hacktoberfest Banner](hf10_banner.png)
 
