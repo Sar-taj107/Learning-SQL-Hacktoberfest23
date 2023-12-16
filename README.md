@@ -89,13 +89,7 @@ To contribute to our Learning-SQL-Hacktoberfest23:
 
 ## Like the Repository! ⭐️
 
-As a first step, please consider giving our repository a ⭐️ to show your support! 🌟
 
-```py
-'''
-To get approval of the pull request much quicker and faster (`Follow Me`)🚀
-'''
-```
 Happy contributing and all the best for hacktoberfest! 💻📚🚗
 
 ⭐️If you find any bug or have a feature suggestion, feel free to raise an issue.
