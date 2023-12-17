@@ -57,7 +57,7 @@ To contribute to our Learning-SQL-Hacktoberfest23:
 1. add any sql query or you can also contribute to write documentation related to different topic of databases (either relational or non-relational db) according to your choice.
    and also add reference link at the end (optional).
 
-* secondly add your details into the contributor list folder just create a file conatains your name, institiute/company , github_url  (the file name should be <your_username.md> ).
+* secondly add your details into the contributor list folder just create a file conatains your name, institiute/company, github_url  (the file name should be <your_username.md> ).
 * 
 ```markdown
 | Name             | Institution/Company                    | GitHub                                  |
