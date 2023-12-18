@@ -144,7 +144,7 @@ SQL-related awesome list.
 
 ## Miscellaneous
 
-Other awesome links & resources!
+- Other awesome links & resources!
 
 * [W3Schools](https://www.w3schools.com/sql/default.asp) - SQL Tutorial with W3Schools.
 * [Pluralsight](https://www.pluralsight.com/courses/code-school-try-sql) - Pluralsight (Code School: Try SQL).
