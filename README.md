@@ -1,7 +1,8 @@
 # Learning-SQL-Hacktoberfest24
 Repository totally dedicated to Hacktober Fest 2023, feel free to use it. Topics hacktoberfest hacktoberfest-accepted hacktoberfest23 
 # Welcome to Hacktoberfest #11 2024
-![Hacktoberfest Banner](hf10_banner.png)
+<!--- ![Hacktoberfest Banner](hf10_banner.png) --->
+![HacktoberFest 2023](https://github.com/DhanushNehru/Hacktoberfest/raw/main/.github/logo.png)
 
 ⭐ This repository is made for beginners who are looking for a beginner-friendly repository to start open source contributions! 
 
