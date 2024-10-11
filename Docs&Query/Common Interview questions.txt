@@ -1,0 +1,71 @@
+1. Find the second highest salary from the employee table:
+
+Explanation: Use a subquery to first get the distinct salaries and then select the second highest.
+
+
+SELECT MAX(salary) AS SecondHighestSalary
+FROM employees
+WHERE salary < (SELECT MAX(salary) FROM employees);
+
+
+2. Find employees whose salary is greater than the average salary of all employees:
+
+Explanation: First, compute the average salary using a subquery, then find employees earning more than that.
+
+
+SELECT name, salary
+FROM employees
+WHERE salary > (SELECT AVG(salary) FROM employees);
+
+
+3. List the employees who work in the same department as an employee named 'John':
+
+Explanation: Use a subquery to find John's department and then select all employees from the same department.
+
+
+SELECT name
+FROM employees
+WHERE department_id = (SELECT department_id FROM employees WHERE name = 'John');
+
+
+4. Display departments that have no employees assigned:
+
+Explanation: Use a subquery with NOT EXISTS to find departments without matching employees.
+
+
+SELECT department_name
+FROM departments d
+WHERE NOT EXISTS (SELECT 1 FROM employees e WHERE e.department_id = d.department_id);
+
+
+5. For each department, find the employee with the highest salary:
+
+Explanation: Use a correlated subquery to find the employee with the maximum salary in each department.
+
+
+SELECT name, department_id, salary
+FROM employees e
+WHERE salary = (SELECT MAX(salary) FROM employees WHERE department_id = e.department_id);
+
+
+6. List employees who do not have a manager assigned:
+
+Explanation: Use a subquery to find employees whose manager_id is NULL.
+
+
+SELECT name
+FROM employees
+WHERE manager_id IS NULL;
+
+
+7. Find the Nth highest salary in the employee table:
+
+Explanation: Use a subquery with DISTINCT salaries and limit the result to get the Nth highest.
+
+
+SELECT salary
+FROM (
+    SELECT salary, DENSE_RANK() OVER (ORDER BY salary DESC) AS rank
+    FROM employees
+) AS ranked_salaries
+WHERE rank = N;
