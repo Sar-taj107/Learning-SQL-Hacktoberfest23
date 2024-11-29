@@ -5,3 +5,10 @@
    `column3` `datatype`, <br />
    `column4` `datatype`, <br />
    `);`
+  - eg: <br />
+    create table student (`id int not null`, <br />
+    `name varchar(20)`, <br />
+    `roll int`, <br />
+    `primary key(id)`);
+    
+     
